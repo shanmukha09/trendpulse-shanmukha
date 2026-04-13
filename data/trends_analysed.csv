@@ -1,0 +1,31 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+1001,AI model improves code generation,technology,120,40,user1,2026-04-13 20:00:01,0.3306,True
+1002,New cloud computing breakthrough,technology,90,25,user2,2026-04-13 20:00:02,0.2747,False
+1003,Tech startup raises funding,technology,70,15,user3,2026-04-13 20:00:03,0.2113,False
+1004,GPU performance increases in new chips,technology,110,35,user4,2026-04-13 20:00:04,0.3153,True
+1005,API security best practices,technology,60,10,user5,2026-04-13 20:00:05,0.1639,False
+1006,LLM advances in natural language,technology,130,50,user6,2026-04-13 20:00:06,0.3817,True
+1007,Data science trends in 2026,technology,80,20,user7,2026-04-13 20:00:07,0.2469,False
+1008,Open source software growth,technology,75,18,user8,2026-04-13 20:00:08,0.2368,False
+1009,AI chip innovation announced,technology,140,60,user9,2026-04-13 20:00:09,0.4241,True
+1010,Cloud storage optimization methods,technology,55,12,user10,2026-04-13 20:00:10,0.2143,False
+1016,Global government policy changes,worldnews,100,35,user16,2026-04-13 20:01:01,0.3465,True
+1017,Climate change conference updates,worldnews,120,50,user17,2026-04-13 20:01:02,0.4098,True
+1018,International relations discussion,worldnews,80,20,user18,2026-04-13 20:01:03,0.2469,False
+1019,President addresses global issues,worldnews,95,30,user19,2026-04-13 20:01:04,0.3093,False
+1020,War updates from multiple regions,worldnews,130,55,user20,2026-04-13 20:01:05,0.4198,True
+1031,NBA finals game highlights,sports,90,25,user31,2026-04-13 20:02:01,0.2747,False
+1032,FIFA championship results,sports,110,40,user32,2026-04-13 20:02:02,0.3604,True
+1033,Top football league matches,sports,80,20,user33,2026-04-13 20:02:03,0.2469,False
+1034,Player scores winning goal,sports,95,30,user34,2026-04-13 20:02:04,0.3093,False
+1035,Team wins championship,sports,120,50,user35,2026-04-13 20:02:05,0.4098,True
+1041,New physics discovery announced,science,110,35,user41,2026-04-13 20:03:01,0.3153,True
+1042,Space mission success update,science,120,45,user42,2026-04-13 20:03:02,0.3719,True
+1043,Biology research breakthrough,science,90,25,user43,2026-04-13 20:03:03,0.2747,False
+1044,Genome sequencing advances,science,100,30,user44,2026-04-13 20:03:04,0.2970,True
+1045,NASA launches new satellite,science,130,55,user45,2026-04-13 20:03:05,0.4198,True
+1051,New movie breaks box office records,entertainment,120,40,user51,2026-04-13 20:04:01,0.3306,True
+1052,Streaming platform releases new show,entertainment,90,25,user52,2026-04-13 20:04:02,0.2747,False
+1053,Music awards highlights,entertainment,80,20,user53,2026-04-13 20:04:03,0.2469,False
+1054,Popular TV series finale reactions,entertainment,110,35,user54,2026-04-13 20:04:04,0.3153,True
+1055,New book tops bestseller list,entertainment,100,30,user55,2026-04-13 20:04:05,0.2970,True
