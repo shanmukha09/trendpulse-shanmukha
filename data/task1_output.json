@@ -1,0 +1,72 @@
+[
+  {
+    "id": 37500001,
+    "title": "New AI model beats humans in coding",
+    "category": "technology",
+    "score": 210,
+    "author": "user123"
+  },
+  {
+    "id": 37500002,
+    "title": "Global climate summit results announced",
+    "category": "worldnews",
+    "score": 180,
+    "author": "user456"
+  },
+  {
+    "id": 37500003,
+    "title": "NBA finals game highlights",
+    "category": "sports",
+    "score": 150,
+    "author": "user789"
+  },
+  {
+    "id": 37500004,
+    "title": "NASA discovers new exoplanet",
+    "category": "science",
+    "score": 200,
+    "author": "user321"
+  },
+  {
+    "id": 37500005,
+    "title": "Netflix releases new blockbuster movie",
+    "category": "entertainment",
+    "score": 170,
+    "author": "user654"
+  },
+  {
+    "id": 37500006,
+    "title": "Open-source software trends in 2026",
+    "category": "technology",
+    "score": 120,
+    "author": "user987"
+  },
+  {
+    "id": 37500007,
+    "title": "Government announces new policy reforms",
+    "category": "worldnews",
+    "score": 95,
+    "author": "user741"
+  },
+  {
+    "id": 37500008,
+    "title": "FIFA championship final results",
+    "category": "sports",
+    "score": 140,
+    "author": "user852"
+  },
+  {
+    "id": 37500009,
+    "title": "Breakthrough in genome research",
+    "category": "science",
+    "score": 160,
+    "author": "user963"
+  },
+  {
+    "id": 37500010,
+    "title": "Top streaming shows this week",
+    "category": "entertainment",
+    "score": 110,
+    "author": "user159"
+  }
+]
